@@ -1,3 +1,3 @@
-Ukraine 🇺🇦 
+🇺🇦 
 
-System Engineer at @wix
+DevOps Team Lead at @crxmarkets
