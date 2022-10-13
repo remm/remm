@@ -1,3 +1,3 @@
 🇺🇦 
 
-DevOps Team Lead at @crxmarkets
+Senior Site Reliability Engineer at @workato
